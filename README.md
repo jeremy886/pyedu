@@ -1,6 +1,6 @@
 # PyEd (Python powered Education)
 
-## 
+## Learning Environment
 Making the transition from Scratch to Python easier http://edublocks.org
 
 ## Set up
