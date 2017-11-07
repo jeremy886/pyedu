@@ -7,6 +7,8 @@ Making the transition from Scratch to Python easier http://edublocks.org
 https://github.com/pyenv/pyenv
 https://www.anaconda.com/download
 
+## IT infrastructure
+https://github.com/giampaolo/pyftpdlib
 
 ## GUI
 conda search tk --channel conda-forge
