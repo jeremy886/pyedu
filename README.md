@@ -1,4 +1,4 @@
-# PyEd (Python powered Education)
+# PyEd (cutting-edge Python powered Education)
 
 ## Learning Environment
 Making the transition from Scratch to Python easier http://edublocks.org
