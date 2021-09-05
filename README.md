@@ -3,7 +3,7 @@
 
 # Use Technologies in the Classroom
 
-* **[Important Consideration for Safety](eSafe.md)**
+* **[Important Consideration for Safety](classroom/eSafe.md)**
 
 # Learning by Doing
 
