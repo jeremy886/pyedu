@@ -13,3 +13,6 @@
 
 * Tests: Latex, TiKZ
 
+# Python for Education
+
+* [Use Python for Education](python/pytho.md)
