@@ -15,4 +15,4 @@
 
 # Python for Education
 
-* [Use Python for Education](python/pytho.md)
+* [Use Python for Education](python/python.md)
