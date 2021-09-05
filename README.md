@@ -36,7 +36,7 @@ Also considering MIT Scratch as alternative
 
 ## Learning by Doing
 
-* Jupyter Notebook
+* [Jupyter Notebook for Education](Jupyter_Education.md)
 
 ## File Sharing
 https://github.com/giampaolo/pyftpdlib
