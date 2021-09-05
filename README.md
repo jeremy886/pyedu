@@ -1,6 +1,10 @@
 # PyEd (Python Programming Inspired Education)
 
 
+# Use Technologies in the Classroom
+
+* **[Important Consideration](eSafe.md)**
+
 # Learning by Doing
 
 * [Jupyter Notebook for Education](jupyter/Jupyter_Education.md)
@@ -9,7 +13,7 @@
 
 * [Games](games/games.md)
 
-# Classroom Tools
+# Teacher's Tools
 
 * Tests: Latex, TiKZ
 
