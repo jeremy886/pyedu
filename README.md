@@ -1,13 +1,44 @@
-# PyEd (cutting-edge Python powered Education)
+# PyEd (Python for Education)
 
-## Learning Environment
+Aims
+* prefer free and open but accept paid software
+* safe and manageable for a primary or secondary school setting
+* easy to install and use
+* significant and long-term educational value
+
+Selection criteria:
+* Browser first, Windows second, Mac good to have
+
+# Python Environment
+
+## Set up a python environment
+
+### For a IT or programming class
+* PyCharm Community or PyCharm Pro (Free for education)
+* PythonAnywhere (web development)
+* Anvil.works (web-based GUI)
+
+### For a Maths or Data Analysis class
+* WinPython (Windows)
+* Ananconda (Mac)
+
+## Online Python Environment
+
+### MakeCode
+
+###  Edublocks
 Making the transition from Scratch to Python easier http://edublocks.org
 
-## Set up
-https://github.com/pyenv/pyenv
-https://www.anaconda.com/download
+Also considering MIT Scratch as alternative
 
-## IT infrastructure
+## Simple Scripting or Calculation
+* thonny
+
+## Learning by Doing
+
+* Jupyter Notebook
+
+## File Sharing
 https://github.com/giampaolo/pyftpdlib
 
 ## GUI
