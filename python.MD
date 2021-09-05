@@ -1,4 +1,4 @@
-# PyEd (Python for Education)
+# Python for Education
 
 Aims
 * prefer free and open but accept paid software
