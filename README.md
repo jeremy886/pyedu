@@ -1,5 +1,8 @@
-# PyEd (Python Programming Inspired Education)
+# PyEd (PYthon programming for EDUcation)
 
+# Pyscript
+
+- [Pyscript](pyscript/pyscript.md)
 
 # Use Technologies in the Classroom
 
